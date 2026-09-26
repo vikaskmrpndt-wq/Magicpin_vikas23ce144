@@ -1,0 +1,7 @@
+.vercel
+.env*
+__pycache__/
+*.pyc
+
+PHASE_PLAN.md
+UPGRADE_*.md
