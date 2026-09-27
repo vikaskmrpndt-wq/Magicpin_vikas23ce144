@@ -2,7 +2,7 @@
 
 **Name:** vikaskumarpandit — contact: vikaskmrpndt@gmail.com
 
-**Live bot:** https://magicpin-vera-bot.vercel.ap· **Repo:** https://github.com/vikaskmrpndt-wq/Magicpin_vikas23ce144
+**Live bot:** https://magicpin-vera-bot.vercel.ap **Repo:** https://github.com/vikaskmrpndt-wq/Magicpin_vikas23ce144
 
 ## Files
 
