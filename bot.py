@@ -35,9 +35,9 @@ from conversation_handlers import ConversationState, respond as ch_respond
 # ---------------------------------------------------------------------------
 # Fill this in before submitting
 # ---------------------------------------------------------------------------
-TEAM_NAME = "Shaurya Bajpai"
-TEAM_MEMBERS = ["Shaurya Bajpai"]
-CONTACT_EMAIL = "bajpaishaurya2911@gmail.com"
+TEAM_NAME = "Vikas kumar pandit"
+TEAM_MEMBERS = ["vikas kumar pandit"]
+CONTACT_EMAIL = "vikaskmrpndt@gmail.com.com"
 BOT_VERSION = "1.0.0"
 
 MAX_SENDS_PER_MERCHANT = 5          # soft frequency cap across the whole test window
