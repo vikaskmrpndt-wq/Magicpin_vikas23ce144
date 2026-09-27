@@ -1,6 +1,6 @@
 # Vera, but better — magicpin AI Challenge submission
 
-**Team:** vikaskumarpandit — contact: vikaskmrpndt@gmail.com
+**Name:** vikaskumarpandit — contact: vikaskmrpndt@gmail.com
 
 **Live bot:** https://magicpin-vera-bot.vercel.app · **Repo:** https://github.com/vikaskmrpndt-wq/Magicpin_vikas23ce144
 
