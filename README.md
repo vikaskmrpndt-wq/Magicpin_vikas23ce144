@@ -1,8 +1,8 @@
 # Vera, but better — magicpin AI Challenge submission
 
-**Team:** Shaurya Bajpai — contact: bajpaishaurya2911@gmail.com
+**Team:** vikaskumarpandit — contact: vikaskmrpndt@gmail.com
 
-**Live bot:** https://magicpin-vera-bot.vercel.app · **Repo:** https://github.com/Shaurya55555/magicpin
+**Live bot:** https://magicpin-vera-bot.vercel.app · **Repo:** https://github.com/vikaskmrpndt-wq/Magicpin_vikas23ce144
 
 ## Files
 
